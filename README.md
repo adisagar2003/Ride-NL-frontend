@@ -7,11 +7,13 @@
 </ul>
 
 <h1>Frontend Tools Used </h1>
-1. react-three-fiber
-2. Tailwind CSS
-3. react-toastify
-4. Axios
-5. Redux persist
+<ul>
+<li>react-three-fiber</li>
+<li>Tailwind CSS</li>
+<li>react-toastify</li>
+<li>Axios</li>
+<li>Redux-persist</li>
+</ul>
 
 <h1>Backend Tools Used</h1>
 1. Sendgrid
